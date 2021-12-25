@@ -1,0 +1,43 @@
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{ 
+    color: blueviolet;
+    text-align: center;
+    
+
+}
+body{
+    background-color: chartreuse;
+    
+}
+
+.titulo1{
+    font-weight: 400;
+    color: blue;
+}
+
+#parrafo {
+text-align: center;
+border: solid;
+/* margen de arriaba */
+margin-top: 25px;
+/* margen de la izquierda */
+margin-left: 50px;
+/* margen de la derecha */
+margin-right: 50px ;
+/* margen de abajo */
+margin-bottom: 25px;
+
+/* Los esquemas de relleno */
+padding-top: 50px;
+}
+
+#parrafo2{
+    background-color: blueviolet;
+    border: solid;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}

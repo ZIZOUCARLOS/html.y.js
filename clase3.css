@@ -1,0 +1,20 @@
+body { background-color: aqua;}
+p{
+    color:black
+}
+h1 {
+    color: brown;
+    text-align: center;
+}
+h2 {
+    cursor: pointer;
+    color: brown;
+    content: hover;
+
+
+}
+
+a {
+    text-decoration: none;
+    
+}
